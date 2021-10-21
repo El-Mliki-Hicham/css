@@ -1,0 +1,20 @@
+/* selecteur ID */
+
+#hello {
+    color: brown;
+
+}
+
+
+/* selecteur class */
+
+.test{
+    color: cadetblue;
+}
+
+
+/* selecture regroupement */
+
+h1,h2,h3{
+    color: darkblue;
+}
